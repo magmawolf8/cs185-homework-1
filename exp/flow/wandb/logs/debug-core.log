@@ -1,8 +1,8 @@
-{"time":"2026-02-12T00:44:51.123863404-08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpnd4tvz_p/port-113875.txt","pid":113875,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
-{"time":"2026-02-12T00:44:51.124370688-08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":113875}
-{"time":"2026-02-12T00:44:51.124324595-08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-113875-113922-1395263155/socket","Net":"unix"}}
-{"time":"2026-02-12T00:44:51.317819051-08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
-{"time":"2026-02-12T00:44:51.325126564-08:00","level":"INFO","msg":"handleInformInit: received","streamId":"0xi9isx9","id":"1(@)"}
-{"time":"2026-02-12T00:44:51.523897154-08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"0xi9isx9","id":"1(@)"}
-{"time":"2026-02-12T00:58:54.837472883-08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"0xi9isx9","id":"1(@)"}
-{"time":"2026-02-12T00:58:54.847436748-08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"0xi9isx9","id":"1(@)"}
+{"time":"2026-02-12T00:12:54.045486612-08:00","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpmr854kvk/port-103420.txt","pid":103420,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-02-12T00:12:54.04582125-08:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-103420-103468-755248680/socket","Net":"unix"}}
+{"time":"2026-02-12T00:12:54.045883673-08:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":103420}
+{"time":"2026-02-12T00:12:54.237667705-08:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2026-02-12T00:12:54.245197901-08:00","level":"INFO","msg":"handleInformInit: received","streamId":"wmjw0a80","id":"1(@)"}
+{"time":"2026-02-12T00:12:54.456858016-08:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"wmjw0a80","id":"1(@)"}
+{"time":"2026-02-12T00:28:15.335377103-08:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"wmjw0a80","id":"1(@)"}
+{"time":"2026-02-12T00:28:15.345104815-08:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"wmjw0a80","id":"1(@)"}

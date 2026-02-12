@@ -2,7 +2,7 @@ _wandb:
     value:
         cli_version: 0.23.1
         e:
-            x9cgtjqm8aeareeev3yqm3v149ldnmle:
+            nimoym1ffirvweupo2ufleb98qvyoiab:
                 codePath: hw1/src/hw1_imitation/train.py
                 codePathLocal: train.py
                 cpu_count: 16
@@ -11,7 +11,7 @@ _wandb:
                 disk:
                     /:
                         total: "1003736440832"
-                        used: "72037986304"
+                        used: "71953993728"
                 email: hengyang@berkeley.edu
                 executable: /home/heng/code/homework_spring2026/hw1/.venv/bin/python3
                 git:
@@ -32,8 +32,8 @@ _wandb:
                 program: /home/heng/code/homework_spring2026/hw1/src/hw1_imitation/train.py
                 python: CPython 3.11.14
                 root: /home/heng/code/homework_spring2026/hw1/src/hw1_imitation
-                startedAt: "2026-02-12T08:44:51.076065Z"
-                writerId: x9cgtjqm8aeareeev3yqm3v149ldnmle
+                startedAt: "2026-02-12T08:12:53.994463Z"
+                writerId: nimoym1ffirvweupo2ufleb98qvyoiab
         m: []
         python_version: 3.11.14
         t:
@@ -76,7 +76,7 @@ num_epochs:
 num_video_episodes:
     value: 5
 policy_type:
-    value: mse
+    value: flow
 seed:
     value: 42
 video_size:

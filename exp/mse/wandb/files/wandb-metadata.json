@@ -1,7 +1,7 @@
 {
   "os":  "Linux-6.17.0-14-generic-x86_64-with-glibc2.39",
   "python":  "CPython 3.11.14",
-  "startedAt":  "2026-02-12T08:12:53.994463Z",
+  "startedAt":  "2026-02-12T08:44:51.076065Z",
   "program":  "/home/heng/code/homework_spring2026/hw1/src/hw1_imitation/train.py",
   "codePath":  "hw1/src/hw1_imitation/train.py",
   "codePathLocal":  "train.py",
@@ -20,7 +20,7 @@
   "disk":  {
     "/":  {
       "total":  "1003736440832",
-      "used":  "71953993728"
+      "used":  "72037986304"
     }
   },
   "memory":  {
@@ -36,5 +36,5 @@
     }
   ],
   "cudaVersion":  "13.1",
-  "writerId":  "nimoym1ffirvweupo2ufleb98qvyoiab"
+  "writerId":  "x9cgtjqm8aeareeev3yqm3v149ldnmle"
 }
